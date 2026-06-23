@@ -1,2 +1,11 @@
 # FarmaciaSaludVida
-FarmaciaSaludVida
+src
+FarmaciaSaludVida.Domain
+FarmaciaSaludVida.Application
+FarmaciaSaludVida.Infrastructure
+FarmaciaSaludVida.API
+tests
+FarmaciaSaludVida.UnitTests
+FarmaciaSaludVida.IntegrationTests
+README.md
+.gitignore
